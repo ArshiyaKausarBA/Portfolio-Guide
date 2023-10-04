@@ -19,6 +19,6 @@ Feel free to ping me on [LinkedIn](www.linkedin.com/in/arshiya-kausar/) to ask a
 
  Project Name| Description| Tableau Dashboard 
  ------------|------------|------------
- :airplane: [New York Airlines Challenge](https://github.com/ArshiyaKausarBA/New-York-Airlines-Challenge)| The company has data on 336k passengers about their flight details, routes, arrival and departure delays along with airlines and airport names. Based on this data, a data-driven strategy is recommended to minimize the flight delay  rate.| [Link](https://github.com/ArshiyaKausarBA/New-York-Airlines-Challenge)
+ :airplane: [New York Airlines Delay](https://github.com/ArshiyaKausarBA/New-York-Airlines-Delay)| The company has data on 336k passengers about their flight details, routes, arrival and departure delays along with airlines and airport names. Based on this data, a data-driven strategy is recommended to minimize the flight delay  rate.| [Link](https://github.com/ArshiyaKausarBA/New-York-Airlines-Delay)
  
  ***
