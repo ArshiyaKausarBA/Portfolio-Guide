@@ -4,7 +4,7 @@ Hey there! 🙋‍♀️
 
 Welcome to my Portfolio guide where I walk you through all of my data analytics projects and case studies.
 
-Feel free to ping me on [LinkedIn](www.linkedin.com/in/arshiya-kausar/) to ask anything about my projects!
+Feel free to ping me on [LinkedIn](www.linkedin.com/in/arshiya-kausar) to ask anything about my projects!
 
 ## :books: 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬
 
